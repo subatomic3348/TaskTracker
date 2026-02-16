@@ -87,6 +87,15 @@ npm test
 
 
 ## Test Coverage
+Backend test coverage summary:
+
+Statements: 83%
+
+Branches: 64%
+
+Functions: 100%
+
+Lines: 82%
 
 Coverage report can be generated locally using:
 npm run test:coverage
