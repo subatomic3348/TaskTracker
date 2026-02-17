@@ -45,6 +45,8 @@ Unit and integration tests for authentication and task routes
 ### 1. Clone the repository
 
 git clone  https://github.com/subatomic3348/TaskTracker.git
+
+
 cd  TaskTracker
 
 ### 2. Backend Setup
